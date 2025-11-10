@@ -39,7 +39,6 @@ CricketShell enhances a basic shell with the following capabilities:
      - `fg <jobid>`: Resume a job in the foreground.
      - `bg <jobid>`: Resume a job in the background.
      - `kill <jobid>`: Terminate a job.
-   - Adds a custom `mood` command to change prompt styles (e.g., `aggressive`, `calm`, `exciting`, `default`).
 
 5. **Job Control**:
    - **Job Listing**: Displays running and stopped jobs with `jobs`.
